@@ -48,3 +48,32 @@ body{
     background-size: cover;
     background-position: center;
 }
+.parallax-sand{
+    background-image: url(./monasterio/sandwichs.jpg);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-position: center;
+}
+.parallax-jugo{
+    background-image: url(./monasterio/jugo.jpg);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-position: center;
+}
+.parallax-factura{
+    background-image: url(./monasterio/facturas.jpg);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-position: center;
+}
+.redo{
+    width: 15vh;
+    border-radius: 100% ;
+}
+.link{
+    color: black;
+    
+}
