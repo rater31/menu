@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
 .barra{
     width: 100%;
+}
+.desa{
+    font-family: 'Anton', sans-serif;
+    margin-top: 70px;
 }
 body{
    background-image: url(./monasterio/Diseño\ sin\ título\ \(4\).png);
@@ -19,4 +26,25 @@ body{
 }
 .logo-menu{
     width: 10vh;
+}
+.parallax{
+    background-image: url(./monasterio/janko-ferlic-h9Iq22JJlGk-unsplash.jpg);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    
+    background-size: cover;
+}
+.parallax-des{
+    background-image: url(./monasterio/brooke-lark-lcZ9NxhOSlo-unsplash.jpg);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-position: center;
+}
+.parallax-licuado{
+    background-image: url(./monasterio/licuado.jpg);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-position: center;
 }
